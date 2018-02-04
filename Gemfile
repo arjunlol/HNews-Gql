@@ -9,6 +9,8 @@ gem 'bcrypt', '~> 3.1.7'
 
 gem 'graphql', '1.7.4'
 
+gem 'search_object', '1.2.0'
+gem 'search_object_graphql', '0.1'
 
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
 gem 'rails', '~> 5.1.4'
